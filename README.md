@@ -36,13 +36,13 @@ Ensure that:
 ## 🛠️ Installation & Setup
 
 1. **Installation of Packages**
-   You need these Packages to Use My Code
-```bash
-pip install streamlit pandas numpy matplotlib openpyxl
-2. **Command to Run this Code**
-```bash
-streamlit run Result.py
+   ```bash
+   pip install streamlit pandas numpy matplotlib openpyxl
+2. **Cammand to Run the Code**
+   ```bash
+   streamlit run Result.py
 3. **Clone the repository**
-```bash
-git clone https://github.com/Avinashbabu-23/Result-Analysis-Dashboard.git
+   ```bash
+   git clone https://github.com/Avinashbabu-23/Result-Analysis-Dashboard.git
 
+ 
