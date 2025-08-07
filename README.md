@@ -38,5 +38,5 @@ Ensure that:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/result-analysis-dashboard.git
-cd result-analysis-dashboard
+git clone https://github.com/Avinashbabu-23/Result-Analysis-Dashboard.git
+
